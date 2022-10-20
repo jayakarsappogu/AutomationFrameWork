@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-11T22:44:53 IST" name="Default suite" finished-at="2022-10-11T22:44:53 IST" duration-ms="53">
+  <suite started-at="2022-10-20T20:11:53 IST" name="Default suite" finished-at="2022-10-20T20:12:03 IST" duration-ms="10011">
     <groups>
     </groups>
-    <test started-at="2022-10-11T22:44:53 IST" name="Default test" finished-at="2022-10-11T22:44:53 IST" duration-ms="53">
-      <class name="ddt.ContactTeat">
-        <test-method signature="createContactTest()[pri:0, instance:ddt.ContactTeat@20d28811]" started-at="2022-10-11T22:44:53 IST" name="createContactTest" finished-at="2022-10-11T22:44:53 IST" duration-ms="11" status="PASS">
+    <test started-at="2022-10-20T20:11:53 IST" name="Default test" finished-at="2022-10-20T20:12:03 IST" duration-ms="10011">
+      <class name="sampleTest.Launch_Browser_Test">
+        <test-method signature="lanchingTest()[pri:0, instance:sampleTest.Launch_Browser_Test@36c88a32]" started-at="2022-10-20T20:11:53 IST" name="lanchingTest" finished-at="2022-10-20T20:12:03 IST" duration-ms="9950" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createContactTest -->
-      </class> <!-- ddt.ContactTeat -->
+        </test-method> <!-- lanchingTest -->
+      </class> <!-- sampleTest.Launch_Browser_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
